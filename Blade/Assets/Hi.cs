@@ -3,6 +3,8 @@ using System.Collections;
 
 public class Hi : MonoBehaviour {
 
+    public int hello;
+
 	// Use this for initialization
 	void Start () {
 	
